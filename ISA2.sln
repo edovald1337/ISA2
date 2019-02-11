@@ -14,7 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{0FBE3FD2-8F3D-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03", "03", "{34AA34C4-21FD-4440-AD2E-A8DE61EB0873}"
 	ProjectSection(SolutionItems) = preProject
+		..\ISA\Week2\HTMLPage1.html = ..\ISA\Week2\HTMLPage1.html
+		..\ISA\Week2\http-message.gif = ..\ISA\Week2\http-message.gif
 		styles.css = styles.css
+		..\ISA\Week2\www-diagram.gif = ..\ISA\Week2\www-diagram.gif
 	EndProjectSection
 EndProject
 Global
