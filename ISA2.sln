@@ -13,12 +13,30 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{0FBE3FD2-8F3D-
 		..\ISA\Week2\www-diagram.gif = ..\ISA\Week2\www-diagram.gif
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{9EFC9D30-E674-4D1A-B3B1-2F0B08C797C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloWorld", "HelloWorld", "{88ECA697-5526-4244-9B5F-14DFA01AAA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{00D47051-563E-49FB-8B78-3949013CF5D4}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D47051-563E-49FB-8B78-3949013CF5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D47051-563E-49FB-8B78-3949013CF5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D47051-563E-49FB-8B78-3949013CF5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D47051-563E-49FB-8B78-3949013CF5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0FBE3FD2-8F3D-4698-8A9F-177D47A404C6} = {48538E4E-9AEA-4244-BC34-380CE2F888A9}
+		{88ECA697-5526-4244-9B5F-14DFA01AAA4F} = {9EFC9D30-E674-4D1A-B3B1-2F0B08C797C8}
+		{00D47051-563E-49FB-8B78-3949013CF5D4} = {88ECA697-5526-4244-9B5F-14DFA01AAA4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65332B08-7143-4F19-8F53-B2F41D1FE69E}

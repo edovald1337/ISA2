@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-2",
+      "appliesTo": "Week1/2/",
+      "type": "launch"
+    }
+  ]
+}
