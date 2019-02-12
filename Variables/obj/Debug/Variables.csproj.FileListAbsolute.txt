@@ -1,0 +1,6 @@
+C:\Users\rawliito\source\repos\ISA2\Variables\bin\Debug\Variables.exe.config
+C:\Users\rawliito\source\repos\ISA2\Variables\bin\Debug\Variables.exe
+C:\Users\rawliito\source\repos\ISA2\Variables\bin\Debug\Variables.pdb
+C:\Users\rawliito\source\repos\ISA2\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\rawliito\source\repos\ISA2\Variables\obj\Debug\Variables.exe
+C:\Users\rawliito\source\repos\ISA2\Variables\obj\Debug\Variables.pdb
