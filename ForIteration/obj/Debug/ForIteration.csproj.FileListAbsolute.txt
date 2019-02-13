@@ -1,0 +1,6 @@
+C:\Users\rawliito\source\repos\ISA2\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\rawliito\source\repos\ISA2\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\rawliito\source\repos\ISA2\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\rawliito\source\repos\ISA2\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\rawliito\source\repos\ISA2\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\rawliito\source\repos\ISA2\ForIteration\obj\Debug\ForIteration.pdb
